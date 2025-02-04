@@ -62,11 +62,11 @@ python main.py
 
 CAP Attendance System
 'Here for all your attendance taking needs!'
-Add Student
-Remove Student
-Take Attendance
-Week Report
-Class Roster
+- Add Student
+- Remove Student
+- Take Attendance
+- Week Report
+- Class Roster
 
 Select an option by entering its corresponding number.
 
